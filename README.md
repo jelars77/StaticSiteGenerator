@@ -9,7 +9,9 @@ Upload files
 Log in
 Leave comments
 Save preferences
-You would need a dynamic site for that stuff, which is usually powered by a database and a custom web server. Static sites are great for:
+You would need a dynamic site for that stuff, which is usually powered by a database and a custom web server. 
+
+Static site use cases:
 
 Blogs
 Portfolios
