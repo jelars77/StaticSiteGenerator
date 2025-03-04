@@ -13,7 +13,10 @@ You would need a dynamic site for that stuff, which is usually powered by a data
 
 Static site use cases:
 
-Blogs
-Portfolios
-Landing pages
+Blogs,
+
+Portfolios,
+
+Landing pages,
+
 Documentation
